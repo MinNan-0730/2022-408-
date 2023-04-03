@@ -7,7 +7,4 @@
 
 在以下平台 我都叫【楠姐有点忙】，会分享一些计算机考研保研以及研究生学习相关文章和视频
 
-[小红书账号]: https://www.xiaohongshu.com/user/profile/638857380000000024009589
-[B站账号]: https://space.bilibili.com/435923308?spm_id_from=333.1007.0.0
-[抖音账号]: https://www.douyin.com/user/self?modal_id=7183231012586016033
-[CSDN账号]: https://blog.csdn.net/qq_46586095?type=blog
+[小红书账号](https://www.xiaohongshu.com/user/profile/638857380000000024009589 ) [B站账号 ](https://space.bilibili.com/435923308?spm_id_from=333.1007.0.0) [抖音账号](https://www.douyin.com/user/self?modal_id=7183231012586016033) [CSDN账号](https://blog.csdn.net/qq_46586095?type=blog)
